@@ -29,10 +29,10 @@ The system is evaluated under varying **energy division factors (α)**, **SNR va
 - **Helper receive antennas:** 1 to 4  
 - **Performance metric:** Bit Error Rate (BER)
 ---
-## 📊 Results
+## 📊 Results  https://github.com/ManjuMtech/Reactive-Jamming-Mitigation-framework/tree/main/results
 - **BER vs. α Curves:**  
   For a given SNR, BER increases with higher α — indicating that allocating more energy to the victim link makes the system more vulnerable to jamming.  
-- **Effect of SNR and antennas:**  Pe_vs_alpha @Nc_2.png
+- **Effect of SNR and antennas:**  
   Increasing SNR or adding more helper antennas reduces BER significantly, improving robustness under jamming conditions.
 
 Example plot:
