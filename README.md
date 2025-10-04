@@ -32,7 +32,7 @@ The system is evaluated under varying **energy division factors (α)**, **SNR va
 ## 📊 Results
 - **BER vs. α Curves:**  
   For a given SNR, BER increases with higher α — indicating that allocating more energy to the victim link makes the system more vulnerable to jamming.  
-- **Effect of SNR and antennas:**  
+- **Effect of SNR and antennas:**  Pe_vs_alpha @Nc_2.png
   Increasing SNR or adding more helper antennas reduces BER significantly, improving robustness under jamming conditions.
 
 Example plot:
