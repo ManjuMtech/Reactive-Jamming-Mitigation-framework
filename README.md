@@ -12,7 +12,7 @@ The framework simulates a **two-user cooperative setup** involving:
 - A **joint Maximum A Posteriori (MAP) decoder** at the receiver.
 
 The system is evaluated under varying **energy division factors (α)**, **SNR values**, and **number of receiver antennas** to study performance degradation and cooperative benefits.
----
+-
 ## ⚙️ Simulation Details
 ### System Components
 | Component | Description |
@@ -34,6 +34,4 @@ The system is evaluated under varying **energy division factors (α)**, **SNR va
   For a given SNR, BER increases with higher α — indicating that allocating more energy to the victim link makes the system more vulnerable to jamming.  
 - **Effect of SNR and antennas:**  
   Increasing SNR or adding more helper antennas reduces BER significantly, improving robustness under jamming conditions.
-
-Example plot:
 
